@@ -1,4 +1,4 @@
-package jworks.workshop.kata.tennis;
+package denmette.workshop.kata.tennis;
 
 public class TennisGame3 implements TennisGame {
 

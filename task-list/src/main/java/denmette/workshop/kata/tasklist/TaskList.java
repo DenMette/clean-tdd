@@ -1,4 +1,4 @@
-package jworks.workshop.kata.tasklist;
+package denmette.workshop.kata.tasklist;
 
 import java.io.BufferedReader;
 import java.io.IOException;

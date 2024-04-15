@@ -21,6 +21,7 @@
     </properties>
 
     <modules>
+        <module>fizz-buzz</module>
         <module>tennis</module>
         <module>task-list</module>
     </modules>

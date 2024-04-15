@@ -1,4 +1,4 @@
-package jworks.workshop.kata.tennis;
+package denmette.workshop.kata.tennis;
 
 public interface TennisGame {
     void wonPoint(String playerName);

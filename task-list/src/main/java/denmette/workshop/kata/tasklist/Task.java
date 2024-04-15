@@ -1,4 +1,4 @@
-package jworks.workshop.kata.tasklist;
+package denmette.workshop.kata.tasklist;
 
 public final class Task {
 	private final long id;

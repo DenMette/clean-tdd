@@ -1,4 +1,4 @@
-package jworks.workshop.kata.tasklist;
+package denmette.workshop.kata.tasklist;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
