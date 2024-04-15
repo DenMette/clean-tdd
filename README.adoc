@@ -1,0 +1,31 @@
+= Workshop Katas
+:toc:
+
+== Introduction
+Our katas are based or copied over from the described website.
+
+* https://kata-log.rocks/
+* https://codingdojo.org/kata/
+
+== Tennis
+
+https://kata-log.rocks/tennis-kata[Kata Description]
+
+=== Scoring
+
+*Points* --
+The smallest unit of measurement. Points increment from Love(0)-15-30-40-game.
+
+*Sets* --
+Sets consist of 4 points each, and is won when a player reaches 4 points with at least a 2 point advantage.
+
+*Deuce* --
+Occurs if a score of 40-40 is reached.
+In order to win the game, a player must win 2 consecutive points in order to take the game.
+If a player wins one point, they have advantage, but if they lose the next point, the score returns to deuce.
+
+== Task List
+
+https://kata-log.rocks/task-list-kata[Kata Description]
+
+Check description for more information
